@@ -7,4 +7,3 @@ logs/
 *.txt
 testresults/
 screenshots/
-package-lock.json
