@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "name": "e2e-cypress-research",
+  "version": "1.0.0",
+  "description": "Cypress research",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "npm run cypress:open",
+    "test:headless": "npm run cypress:run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
